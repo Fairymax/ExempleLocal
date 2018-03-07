@@ -11,6 +11,7 @@ namespace ExempleLocal
         static void Main(string[] args)
         {
             String test = "BOnjour";
+
             int i = 0;
         }
     }
